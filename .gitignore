@@ -1,0 +1,9 @@
+# Raw data
+data/
+
+# DuckDB database files: rebuilt from the CSVs
+*.duckdb
+*.duckdb.wal
+
+# macOS system files
+.DS_Store
